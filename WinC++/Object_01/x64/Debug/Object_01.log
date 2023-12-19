@@ -1,0 +1,11 @@
+﻿  Engine3D.cpp
+C:\Users\hawon\Project\CPP\WinC++\Object_01\ConsoleGameEngine.h(590,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\ConsoleGameEngine.h(887,31): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\ConsoleGameEngine.h(973,4): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'ConsoleGameEngine *'(으)로의 변환입니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(276,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(276,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(275,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(275,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(274,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinC++\Object_01\Engine3D.cpp(274,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_01.vcxproj -> C:\Users\hawon\Project\CPP\WinC++\x64\Debug\Object_01.exe
