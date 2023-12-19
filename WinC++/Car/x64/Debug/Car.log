@@ -1,51 +1,52 @@
 ﻿  CarCrimeCity1.cpp
-C:\Users\hawon\Project\CPP\WinC++\Car\PixelGameEngine.h(1784,46): warning C4244: '인수': 'WPARAM'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PixelGameEngine.h(1785,45): warning C4244: '인수': 'WPARAM'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,89): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,77): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,65): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,53): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,41): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(526,29): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,89): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,77): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,65): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,53): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,41): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(531,29): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(600,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(601,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(660,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(661,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(733,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(734,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(739,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(740,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(765,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(767,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(768,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(813,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(814,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(830,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(832,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(833,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1053,40): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1087,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1087,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1086,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1086,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1085,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\PGEX_Graphics3D.h(1085,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(236,135): warning C4244: '인수': 'int32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(236,119): warning C4244: '인수': 'int32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(488,77): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(488,74): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(510,78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(510,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(525,79): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(525,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(534,78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(534,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(548,91): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hawon\Project\CPP\WinC++\Car\CarCrimeCity1.cpp(548,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Car.vcxproj -> C:\Users\hawon\Project\CPP\WinC++\x64\Debug\Car.exe
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PixelGameEngine.h(1784,46): warning C4244: '인수': 'WPARAM'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PixelGameEngine.h(1785,45): warning C4244: '인수': 'WPARAM'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,89): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,77): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,65): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,53): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,41): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(526,29): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,89): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,77): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,65): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,53): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,41): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(531,29): warning C4244: '인수': 'float'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(600,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(601,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(660,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(661,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(733,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(734,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(739,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(740,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(765,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(767,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(768,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(813,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(814,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(830,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(832,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(833,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1053,40): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1087,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1087,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1086,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1086,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1085,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\PGEX_Graphics3D.h(1085,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(236,135): warning C4244: '인수': 'int32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(236,119): warning C4244: '인수': 'int32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(488,77): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(488,74): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(510,78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(510,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(525,79): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(525,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(534,78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(534,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(548,91): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\Car\CarCrimeCity1.cpp(548,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LINK : C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\x64\Debug\Car.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Car.vcxproj -> C:\Users\hawon\Project\CPP\WinAPIStudy\WinC++\x64\Debug\Car.exe
