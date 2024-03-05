@@ -1,0 +1,13 @@
+﻿  ComandLineFPS.cpp
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_02\ConsoleGameEngine.h(590,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ComandLineFPS.cpp'을(를) 컴파일하는 중)
+  
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_02\ConsoleGameEngine.h(887,31): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ComandLineFPS.cpp'을(를) 컴파일하는 중)
+  
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_02\ConsoleGameEngine.h(973,4): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'ConsoleGameEngine *'(으)로의 변환입니다.
+  (소스 파일 'ComandLineFPS.cpp'을(를) 컴파일하는 중)
+  
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_02\ComandLineFPS.cpp(233,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_02\ComandLineFPS.cpp(312,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FPS_02.vcxproj -> C:\Project\CPP\WinAPIStudy\WinC++\x64\Debug\FPS_02.exe
