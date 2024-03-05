@@ -1,0 +1,4 @@
+﻿  FPS.cpp
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_01\FPS.cpp(131,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Project\CPP\WinAPIStudy\WinC++\FPS_01\FPS.cpp(139,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FPS_01.vcxproj -> C:\Project\CPP\WinAPIStudy\WinC++\x64\Debug\FPS_01.exe
