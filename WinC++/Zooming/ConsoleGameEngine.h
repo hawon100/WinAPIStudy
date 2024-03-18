@@ -2,11 +2,6 @@
 #pragma once
 #pragma comment(lib, "winmm.lib")
 
-#ifndef UNICODE
-#error Please enable UNICODE for your compiler! VS: Project Properties -> General -> \
-Character Set -> Use Unicode. Thanks!
-#endif
-
 #include <windows.h>
 
 #include <iostream>

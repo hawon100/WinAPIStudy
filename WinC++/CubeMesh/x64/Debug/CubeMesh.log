@@ -14,6 +14,4 @@ C:\Project\CPP\WinAPIStudy\WinC++\CubeMesh\Engine3D.cpp(165,43): warning C4244: 
 C:\Project\CPP\WinAPIStudy\WinC++\CubeMesh\Engine3D.cpp(165,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Project\CPP\WinAPIStudy\WinC++\CubeMesh\Engine3D.cpp(164,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Project\CPP\WinAPIStudy\WinC++\CubeMesh\Engine3D.cpp(164,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Sprite.cpp
-  코드를 생성하고 있습니다...
   CubeMesh.vcxproj -> C:\Project\CPP\WinAPIStudy\WinC++\x64\Debug\CubeMesh.exe
