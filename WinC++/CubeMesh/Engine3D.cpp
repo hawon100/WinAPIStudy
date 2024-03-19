@@ -27,7 +27,7 @@ class Engine3D : public ConsoleGameEngine
 public:
 	Engine3D()
 	{
-		m_sAppName = L"3D Demo";
+		m_sAppName = L"CubeMesh";
 	}
 
 

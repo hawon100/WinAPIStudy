@@ -16,7 +16,7 @@ class CarCrimeCity : public olc::PixelGameEngine
 public:
 	CarCrimeCity()
 	{
-		sAppName = "Car Crime City";
+		sAppName = "Car";
 	}
 
 private:

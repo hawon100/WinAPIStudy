@@ -10,7 +10,7 @@ class OneLoneCoder_UltimateFPS : public ConsoleGameEngine
 public:
 	OneLoneCoder_UltimateFPS()
 	{
-		m_sAppName = L"Ultimate First Person Shooter";
+		m_sAppName = L"FPS";
 	}
 
 private:

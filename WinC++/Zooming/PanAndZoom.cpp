@@ -6,7 +6,7 @@ class PanAndZoom : public ConsoleGameEngine
 public:
 	PanAndZoom()
 	{
-		m_sAppName = L"Pan And Zoom";
+		m_sAppName = L"Zooming";
 	}
 
 private:

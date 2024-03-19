@@ -580,7 +580,7 @@ private:
 					m_bAtomActive = false;
 
 				wchar_t s[256];
-				swprintf_s(s, 256, L"Console Game Engine - %s - FPS: %3.2f", m_sAppName.c_str(), 1.0f / fElapsedTime);
+				swprintf_s(s, 256, L"Console Game Engine - %s", m_sAppName.c_str());
 				SetConsoleTitle(s);
 				WriteConsoleOutput(m_hConsole, m_bufScreen, { (short)m_nScreenWidth, (short)m_nScreenHeight }, { 0,0 }, &m_rectWindow);
 			}
