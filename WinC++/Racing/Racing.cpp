@@ -5,10 +5,10 @@ using namespace std;
 #include "ConsoleGameEngine.h"
 
 
-class OneLoneCoder_FormulaOLC : public ConsoleGameEngine
+class Formula : public ConsoleGameEngine
 {
 public:
-	OneLoneCoder_FormulaOLC()
+	Formula()
 	{
 		m_sAppName = L"Racing";
 	}
@@ -261,7 +261,7 @@ protected:
 int main()
 {
 	// Use ConsoleGameEngine derived app
-	OneLoneCoder_FormulaOLC game;
+	Formula game;
 	game.ConstructConsole(160, 100, 4, 4);
 	game.Start();
 

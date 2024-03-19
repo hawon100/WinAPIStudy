@@ -5,10 +5,10 @@
 using namespace std;
 
 
-class OneLoneCoder_UltimateFPS : public ConsoleGameEngine
+class UltimateFPS : public ConsoleGameEngine
 {
 public:
-	OneLoneCoder_UltimateFPS()
+	UltimateFPS()
 	{
 		m_sAppName = L"FPS";
 	}
@@ -333,7 +333,7 @@ protected:
 
 int main()
 {
-	OneLoneCoder_UltimateFPS game;
+	UltimateFPS game;
 	game.ConstructConsole(200, 100,4,4);
 	game.Start();
 	return 0;

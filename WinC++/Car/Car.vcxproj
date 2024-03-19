@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CarCrimeCity1.cpp" />
+    <ClCompile Include="CarCrimeCity.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PGEX_Graphics3D.h" />
